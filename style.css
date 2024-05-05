@@ -13,6 +13,7 @@ header {
 .button-container{
     margin-top: 675px;
     display: flex;
+    justify-content: center;
     width: 100%;
 }
 /* ESTILOS BOTÓN GROW ELLIPSE */
