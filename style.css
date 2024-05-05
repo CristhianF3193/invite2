@@ -12,6 +12,11 @@ header {
 }
 .button-container{
     margin-top: 675px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100%;
 }
 /* ESTILOS BOTÓN GROW ELLIPSE */
 .ov-btn-grow-ellipse {
@@ -55,6 +60,7 @@ header {
     color: #4680be;
     margin-top: 100px;
     margin: 10px;
+    width: 100%;
 }
 #timer {
     display: flex;
