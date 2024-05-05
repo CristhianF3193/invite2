@@ -1,0 +1,20 @@
+#titulo {
+    color: tomato
+}
+p.texto {
+    color: turquoise;
+}
+p.especial {
+    color: blueviolet;
+}
+div p {
+    color: aquamarine;
+}
+
+header {
+    width: 100vw;
+    height: 100vh;
+    background-image: url(imagen.png);
+    background-position: bottom;
+    background-size: cover;
+}
